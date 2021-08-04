@@ -1,1 +1,1 @@
-This is where all Java practice will be!
+All of the basics of Java will be practiced in this section!
